@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fsinn
 - 👀 I’m interested in development topics, nature and sustainable lifestyle, cooking, and gaming.
-- 🌱 I’m currently learning Svelte and Rust.
+- 🌱 I’m currently learning Svelte and Rust, and also Ansible.
 - 📫 How to reach me ...
 
 <!---
