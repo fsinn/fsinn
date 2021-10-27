@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @fsinn
 - 👀 I’m interested in development topics, nature and sustainable lifestyle, cooking, and gaming.
-- 🌱 I’m currently learning Svelte and Rust, and also Ansible.
+- 🌱 I’m currently learning Bloomreach CMS and Kotlin
+- ✅ I recently finished learning Ansible
 - 📫 How to reach me ...
 
 <!---
