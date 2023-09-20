@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fsinn
 - 👀 I’m interested in development topics, nature and sustainable lifestyle, cooking, and gaming.
-- 🌱 I’m currently learning React and NextJS
+- 🌱 I’m currently learning a frontend stack using pnpm, eslint, Vite, React, Sass, and Tyüescript
 - ✅ I recently finished learning Ansible, Bloomreach CMS and Kotlin
 - 📫 How to reach me ...
 
