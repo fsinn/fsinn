@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @fsinn
+- 👋 Hi, I’m @mor4thii
 - 👀 I’m interested in development topics, nature and sustainable lifestyle, cooking, and gaming.
-- 🌱 I’m currently learning a frontend stack using pnpm, eslint, Vite, React, Sass, and Tyüescript
+- 🌱 I’m currently learning a frontend stack using pnpm, eslint, Vite, React, Sass, and Typescript
 - ✅ I recently finished learning Ansible, Bloomreach CMS and Kotlin
 - 📫 How to reach me ...
 
